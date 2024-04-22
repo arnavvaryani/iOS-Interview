@@ -39,6 +39,8 @@ class NetworkBytes {
         return bytes
     }
     
+    // The operation of this function is explained in some detail!
+    // Probably a good place to start!
     func getIntValue(startBitIdx:Int, endBitIdx:Int) -> Int {
         // startBitIdx: The index of the first bit that we want to read
         // endBitIdx: The index of the last bit that we want to read
