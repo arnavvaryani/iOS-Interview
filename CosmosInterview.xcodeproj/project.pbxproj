@@ -46,6 +46,7 @@
 		386D8AE92B1657300005CDE5 = {
 			isa = PBXGroup;
 			children = (
+				38DA5E5A2BD9B08500B2019D /* readme.md */,
 				386D8AF42B1657300005CDE5 /* CosmosInterview */,
 				386D8AF32B1657300005CDE5 /* Products */,
 			);
@@ -65,7 +66,6 @@
 				38DA5E562BD9AED400B2019D /* DataWrapper.swift */,
 				38DA5E582BD9AEE200B2019D /* NetworkBytes.swift */,
 				386D8AF52B1657300005CDE5 /* main.swift */,
-				38DA5E5A2BD9B08500B2019D /* readme.md */,
 			);
 			path = CosmosInterview;
 			sourceTree = "<group>";
