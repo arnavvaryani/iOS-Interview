@@ -1,5 +1,3 @@
-Here's the formatted Markdown version of the provided text:
-
 # iOS Interview Assignment
 
 This code is excerpted from our UDP/TCP packet processing system. Your mission, should you choose to accept it, is to:
