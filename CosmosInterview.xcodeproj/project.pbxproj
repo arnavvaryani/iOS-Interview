@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		386D8AF62B1657300005CDE5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386D8AF52B1657300005CDE5 /* main.swift */; };
+		38DA5E572BD9AED400B2019D /* DataWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38DA5E562BD9AED400B2019D /* DataWrapper.swift */; };
+		38DA5E592BD9AEE200B2019D /* NetworkBytes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38DA5E582BD9AEE200B2019D /* NetworkBytes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,9 @@
 /* Begin PBXFileReference section */
 		386D8AF22B1657300005CDE5 /* CosmosInterview */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CosmosInterview; sourceTree = BUILT_PRODUCTS_DIR; };
 		386D8AF52B1657300005CDE5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		38DA5E562BD9AED400B2019D /* DataWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataWrapper.swift; sourceTree = "<group>"; };
+		38DA5E582BD9AEE200B2019D /* NetworkBytes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkBytes.swift; sourceTree = "<group>"; };
+		38DA5E5A2BD9B08500B2019D /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +62,10 @@
 		386D8AF42B1657300005CDE5 /* CosmosInterview */ = {
 			isa = PBXGroup;
 			children = (
+				38DA5E562BD9AED400B2019D /* DataWrapper.swift */,
+				38DA5E582BD9AEE200B2019D /* NetworkBytes.swift */,
 				386D8AF52B1657300005CDE5 /* main.swift */,
+				38DA5E5A2BD9B08500B2019D /* readme.md */,
 			);
 			path = CosmosInterview;
 			sourceTree = "<group>";
@@ -121,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				386D8AF62B1657300005CDE5 /* main.swift in Sources */,
+				38DA5E572BD9AED400B2019D /* DataWrapper.swift in Sources */,
+				38DA5E592BD9AEE200B2019D /* NetworkBytes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
